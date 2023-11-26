@@ -4,13 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d4ec55f9-71e5-4b73-a7ae-7529bcf6d3ab" name="Changes" comment="Feat : User, Role 클래스 생성">
-      <change afterPath="$PROJECT_DIR$/freelec-springboot2-webservice/src/main/java/com/jojoldu/book/springboot/domain/user/Role.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/freelec-springboot2-webservice/src/main/java/com/jojoldu/book/springboot/domain/user/User.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/freelec-springboot2-webservice/src/main/java/com/jojoldu/book/springboot/domain/user/UserRepository.java" afterDir="false" />
+    <list default="true" id="d4ec55f9-71e5-4b73-a7ae-7529bcf6d3ab" name="Changes" comment="Feat : IndexController">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/freelec-springboot2-webservice/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/freelec-springboot2-webservice/build.gradle" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/freelec-springboot2-webservice/src/main/java/com/jojoldu/book/springboot/config/auth/dto/SessionUser.java" beforeDir="false" afterPath="$PROJECT_DIR$/freelec-springboot2-webservice/src/main/java/com/jojoldu/book/springboot/config/auth/dto/SessionUser.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -40,6 +35,7 @@
         <option value="HTML File" />
         <option value="Enum" />
         <option value="Interface" />
+        <option value="AnnotationType" />
         <option value="Class" />
       </list>
     </option>
@@ -80,7 +76,6 @@
     <ConfirmationsSetting value="1" id="Add" />
   </component>
   <component name="ProjectViewState">
-    <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">{
@@ -208,7 +203,35 @@
       <option name="project" value="LOCAL" />
       <updated>1700973485839</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Feat : User, Role 클래스 생성, UserRepository">
+      <created>1700989662240</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1700989662240</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Feat : 스프링 시큐리티 설정">
+      <created>1700989756352</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1700989756352</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Feat : index.mustache login button">
+      <created>1700990106464</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1700990106464</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Feat : IndexController">
+      <created>1700990254579</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1700990254579</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -236,6 +259,10 @@
     <MESSAGE value="1주차 최종" />
     <MESSAGE value="Feat : 구글 서비스 등록" />
     <MESSAGE value="Feat : User, Role 클래스 생성" />
-    <option name="LAST_COMMIT_MESSAGE" value="Feat : User, Role 클래스 생성" />
+    <MESSAGE value="Feat : User, Role 클래스 생성, UserRepository" />
+    <MESSAGE value="Feat : 스프링 시큐리티 설정" />
+    <MESSAGE value="Feat : index.mustache login button" />
+    <MESSAGE value="Feat : IndexController" />
+    <option name="LAST_COMMIT_MESSAGE" value="Feat : IndexController" />
   </component>
 </project>
