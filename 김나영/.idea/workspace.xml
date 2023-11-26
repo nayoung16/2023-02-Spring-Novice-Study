@@ -4,8 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d4ec55f9-71e5-4b73-a7ae-7529bcf6d3ab" name="Changes" comment="Feat : IndexController">
+    <list default="true" id="d4ec55f9-71e5-4b73-a7ae-7529bcf6d3ab" name="Changes" comment="Feat : 어노테이션 기반으로 개선하기">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/freelec-springboot2-webservice/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/freelec-springboot2-webservice/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/freelec-springboot2-webservice/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/freelec-springboot2-webservice/src/main/resources/application.properties" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -231,7 +233,14 @@
       <option name="project" value="LOCAL" />
       <updated>1700990254579</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="Feat : 어노테이션 기반으로 개선하기">
+      <created>1700991286254</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1700991286254</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -263,6 +272,7 @@
     <MESSAGE value="Feat : 스프링 시큐리티 설정" />
     <MESSAGE value="Feat : index.mustache login button" />
     <MESSAGE value="Feat : IndexController" />
-    <option name="LAST_COMMIT_MESSAGE" value="Feat : IndexController" />
+    <MESSAGE value="Feat : 어노테이션 기반으로 개선하기" />
+    <option name="LAST_COMMIT_MESSAGE" value="Feat : 어노테이션 기반으로 개선하기" />
   </component>
 </project>
